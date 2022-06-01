@@ -9,6 +9,9 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - dash
+  - jupyter-dash
+  -
   - panel
   - proj
   - rasterio
