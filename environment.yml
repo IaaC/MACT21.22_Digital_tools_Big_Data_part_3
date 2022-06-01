@@ -11,7 +11,6 @@ dependencies:
   - pandas
   - dash
   - jupyter-dash
-  -
   - panel
   - proj
   - rasterio
