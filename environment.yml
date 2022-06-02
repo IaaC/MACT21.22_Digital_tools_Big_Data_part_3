@@ -3,20 +3,10 @@ channels:
   - conda-forge
   - default
 dependencies:
-  - python=3.7
-  - geopandas
+  - python=3.8
   - jupyterlab
+  - jupyter-dash
   - matplotlib
   - numpy
   - pandas
   - dash
-  - jupyter-dash
-  - panel
-  - proj
-  - rasterio
-  - scikit-learn
-  - seaborn
-  - shapely<1.8
-  - spaghetti
-  - splot
-  - stonesoup
