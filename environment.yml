@@ -1,5 +1,6 @@
 name: py-dash
 channels:
   - conda-forge
+  - default
 dependencies:
   - python=3.8
