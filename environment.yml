@@ -1,4 +1,4 @@
-name: dash
+name: py-dash
 channels:
   - conda-forge
 dependencies:
