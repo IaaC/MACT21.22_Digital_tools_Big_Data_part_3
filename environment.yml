@@ -1,11 +1,7 @@
-name: dash
-channels:
-  - conda-forge
-  - defaults
 dependencies:
   - pip
   - pandas
-  - pip:
-    - dash
-    - jupyter-dash
+  - dash
+  - jupyter-dash
+
 
