@@ -1,7 +1,10 @@
+name: dash
+
 dependencies:
+  - python=3.8
   - pip
   - pandas
-  - dash
-  - jupyter-dash
-
+  - pip:
+    - dash
+    - jupyter-dash
 
