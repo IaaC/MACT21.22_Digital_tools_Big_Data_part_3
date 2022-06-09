@@ -3,7 +3,7 @@ from dash import Dash, dcc, html, Input, Output
 app = Dash(__name__)
 
 app.layout = html.Div([
-    html.H6("Change the value in the text box to see callbacks in action!"),
+    html.H3("MaCT . Change the value in the text box to see callbacks in action!"),
     html.Div([
         "Input: ",
         dcc.Input(id='my-input', value='initial value', type='text')
